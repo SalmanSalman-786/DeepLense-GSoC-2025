@@ -54,4 +54,3 @@ This repository contains my solutions for the **ML4Sci DeepLense GSoC 2025 evalu
 
 ## Author
 Salman  
-Email submission sent to **ml4-sci@cern.ch**
